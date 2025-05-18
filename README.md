@@ -12,11 +12,11 @@ Me chamo Hugo Leonardo, tenho 17 anos e sou natural do Rio de Janeiro. Atualment
             src="https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black"
         />
     </a> 
-     <a href="https://github.com/Leoythom">
+     <a href="https://github.com/leoythomm">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/leoythomm?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
@@ -81,7 +81,7 @@ Me chamo Hugo Leonardo, tenho 17 anos e sou natural do Rio de Janeiro. Atualment
     align="left" 
     height="200"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Leoythom&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br)" 
+    src="https://github-readme-stats.vercel.app/api?username=leoythomm&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br)" 
 />
 
 <img 
